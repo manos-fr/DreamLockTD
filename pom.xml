@@ -42,7 +42,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.dreamlock.Dreamlock</mainClass>
+                            <mainClass>com.dreamlock.desktop.Dreamlock</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>

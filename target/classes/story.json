@@ -32,7 +32,7 @@
     "path":"/rooms/banquethall.json",
     "items":[
       {
-        "path":"/items/puzzle/key.json"
+        "path":"/items/keys/key.json"
       }
     ],
     "enemies":[
@@ -81,6 +81,9 @@
       },
       {
         "path":"/items/weapons/wooden_axe.json"
+      },
+      {
+        "path": "/items/keys/bronze_chest_key.json"
       }
     ],
     "enemies":[
@@ -98,9 +101,7 @@
     "id":5,
     "path":"/rooms/upper_floor.json",
     "items":[
-      {
-        "path":"/items/puzzle/iron_key.json"
-      }
+
     ],
     "enemies":[
 
@@ -168,24 +169,24 @@
     ]
   },
   {
-  "id":9,
-  "path":"/rooms/third_floor.json",
-  "items":[
+    "id":9,
+    "path":"/rooms/third_floor.json",
+    "items":[
 
-  ],
-  "enemies":[
+    ],
+    "enemies":[
 
-  ],
-  "exits":[
-    {
-      "north":10,
-      "east":11
-    }
-  ],
-  "doors":[
+    ],
+    "exits":[
+      {
+        "north":10,
+        "east":11
+      }
+    ],
+    "doors":[
 
-  ]
-},
+    ]
+  },
   {
     "id":10,
     "path":"/rooms/master_bedroom.json",
